@@ -1,5 +1,5 @@
 # CSCI185 Script Programming
-# Spring 2022
+# Spring 2021
 # Topic 1: Getting Unix
 ## Course Introduction
 + This course is intended for folks who are new to programming and new to **Unix-like** operating systems like macOS and Linux distributions like Ubuntu.
@@ -22,7 +22,8 @@
   - 90% of all cloud infrastructure operates on Linux and practically all the best cloud hosts use it.
 ## Getting Unix
 ### Mac & Ubuntu Users
-If you’re using a Mac or you’re using the Ubuntu operating system find a program called Terminal and open it. You can skip the next section about Windows.
++ If you’re using a Mac or you’re using the Ubuntu operating system find a program called Terminal and open it. You can skip the next section about Windows.
++ Note that you may need to change the default shell to bash if it is not (For Mac, check [here](https://www.howtogeek.com/444596/how-to-change-the-default-shell-to-bash-in-macos-catalina/)).
 ### Windows 10
 If you’re using the latest version of Windows 10 you should enable and install Bash on Ubuntu on Windows. You can find the installation guide from Microsoft [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10?redirectedfrom=MSDN)
 ### Others
