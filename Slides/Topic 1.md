@@ -31,7 +31,7 @@
 ### Windows 10
 If you’re using the latest version of Windows 10 you should enable and install Bash on Ubuntu on Windows. You can find the installation guide from Microsoft [here](https://docs.microsoft.com/en-us/windows/wsl/install-win10?redirectedfrom=MSDN)
 ### Others
-Please Google “how to install Ubuntu on Windows with VirtualBox” 
+#### Please Google “how to install Ubuntu on Windows with VirtualBox” 
 + Step 1: Download VirtualBox [here](https://www.virtualbox.org/)
 + Step 2: Download Ubuntu [here](https://ubuntu.com/#download)
   - Note: Choose Ubuntu Desktop
@@ -43,3 +43,6 @@ Please Google “how to install Ubuntu on Windows with VirtualBox”
 
 ![](../Resources/bs1.png)
 ![](../Resources/bs2.png)
+
+#### Linux in your browser
+[jslinux](https://bellard.org/jslinux/)
