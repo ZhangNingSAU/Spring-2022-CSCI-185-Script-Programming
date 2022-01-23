@@ -3,6 +3,8 @@
 # Topic 1: Getting Unix
 ## Course Introduction
 + This course is intended for folks who are new to programming and new to **Unix-like** operating systems like macOS and Linux distributions like Ubuntu.
+  - [Unix vs Windows](https://www.geeksforgeeks.org/difference-between-unix-and-windows-operating-system/)
+  - [Linux vs Windows](https://www.guru99.com/linux-differences.html)
 + Most of the technologies discussed in this book will be accessed via a **command line interface**.
 + You’ll also learn how to write little pieces of software in a programming language called **Bash**.
 ## Why Unix?
