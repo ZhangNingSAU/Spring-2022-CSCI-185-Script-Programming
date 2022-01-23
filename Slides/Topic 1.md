@@ -11,6 +11,7 @@
 [11 reasons to learn Bash](https://www.dataquest.io/blog/why-learn-the-command-line/)
 ## What is Unix?
 + Unix is an operating system and a set of tools.
+  - [Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 
 ![unix](https://kuldeepsarena.files.wordpress.com/2019/01/os_architecture.png?w=656)
 
