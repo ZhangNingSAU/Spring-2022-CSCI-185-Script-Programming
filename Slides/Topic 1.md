@@ -22,6 +22,7 @@
 + The tool we’ll be using the most in this book is a shell, which is a computer program that provides a command line interface.
   - The shell is a very direct and powerful way to manipulate a computer.
   - There are several popular shell programs but in this book we’ll be using a shell called Bash because it’s the default shell program on Mac and Ubuntu.
+  - [More about shell](https://eshop.macsales.com/blog/56921-moving-from-bash-to-zsh-terminal-changes-in-macos-catalina/)
 + [Linux Statistics](https://hostingtribunal.com/blog/linux-statistics/#gref)
   - Windows claims 82.56% of the world’s OS market.
   - 1.63% of all desktop operating systems worldwide ran on Linux.
