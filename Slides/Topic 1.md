@@ -1,5 +1,5 @@
 # CSCI185 Script Programming
-# Spring 2020
+# Spring 2022
 # Topic 1: Getting Unix
 ## Course Introduction
 + This course is intended for folks who are new to programming and new to **Unix-like** operating systems like macOS and Linux distributions like Ubuntu.
