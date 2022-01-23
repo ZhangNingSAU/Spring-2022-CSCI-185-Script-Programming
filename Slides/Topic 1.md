@@ -7,6 +7,7 @@
 + You’ll also learn how to write little pieces of software in a programming language called **Bash**.
 ## Why Unix?
 [5 reasons to learn Unix](https://www.edureka.co/blog/top-reasons-to-learn-unix-shell-scripting/)
+
 [11 reasons to learn Bash](https://www.dataquest.io/blog/why-learn-the-command-line/)
 ## What is Unix?
 + Unix is an operating system and a set of tools.
