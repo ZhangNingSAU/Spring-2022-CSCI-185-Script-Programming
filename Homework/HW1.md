@@ -1,6 +1,6 @@
 # CSCI 185 Spring 2022
 # Homework 1
-# Due: 23:59PM Friday 02/04/2021
+# Due: 23:59PM Wednesday 02/02/2021
 
 # 1. Q1 decription (40 points)
 # 2. Q2 description. (60 points)
