@@ -45,7 +45,7 @@ If you’re using the latest version of Windows 10 you should enable and install
 + Step 3: Install Ubuntu 
 + Tutorials:
   - [Tutorial 1](https://www.youtube.com/watch?v=QbmRXJJKsvs)
-  - [Tutorial 1](https://www.youtube.com/watch?v=BkXit-KHVsE)
+  - [Tutorial 2](https://www.youtube.com/watch?v=BkXit-KHVsE)
 
 
 ![](../Resources/bs1.png)
