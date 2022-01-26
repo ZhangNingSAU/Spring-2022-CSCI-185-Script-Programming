@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 1
 # Start: 01/27/2021
-# Due: 23:59PM 02/03/2021
+# Due: 23:59PM 02/02/2021
 
 # 1. Read **What is Unix** in your textbook and understand Unix and Shell.
 # 2. Set up the Unix Environment according to the instructions in **Getting Unix** in your textbook or the lecture slides. Please follow the correct instructions based on your OS (Mac or Windows).
