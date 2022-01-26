@@ -1,4 +1,4 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Topic 2: Command Line Basics
 
 # Part I: Hello terminal
