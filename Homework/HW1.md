@@ -1,6 +1,6 @@
 # CSCI 185 Spring 2022
 # Homework 1
-# Start: 01/27/2021
+# Start: 01/26/2021
 # Due: 23:59PM 02/02/2021
 
 # 1. Read **What is Unix** in your textbook and understand Unix and Shell.
