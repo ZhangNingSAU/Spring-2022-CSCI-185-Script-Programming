@@ -168,6 +168,8 @@ changed.
   
 ![cd4](../Resources/t2-cd4.png)
 
++ Discussion: absolute directory vs. relative directory
+
 ## tab completion
 + Of course you shouldn’t expect yourself to have every absolute path on your computer memorized!
 + You can use a terminal feature called **tab completion** in order to speed up typing paths and other commands.
