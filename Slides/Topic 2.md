@@ -185,7 +185,7 @@ changed.
 ### Question: How to change to a directory containing white spaces?
 <details>
 <summary>Click to see the solution(s)!</summary>
-  1. use quotes: `cd "file name"` or `cd 'file name'`
+  1. use quotes: `cd "file name"` or `cd 'file name'`<br>
   2. escape white space `cd file\ name`
 </details>
 
