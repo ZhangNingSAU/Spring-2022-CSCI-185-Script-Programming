@@ -25,6 +25,8 @@
 + As you can see in my shell it says "Nings-MacBook-Air:~ sliM$". This string of characters is called the **prompt**.
 + The prompt ends with the dollar sign $.
 + The prompt is just there to let you know that the shell is ready for you to type in a command.
++ [Customize your prompt(Linux)](https://phoenixnap.com/kb/change-bash-prompt-linux)
++ [Customize your prompt(Mac)](https://osxdaily.com/2006/12/11/how-to-customize-your-terminal-prompt/)
 
 ## Enter
 + Press **Enter** on your keyboard a few times to see what happens with the prompt.
