@@ -182,6 +182,13 @@ changed.
 ![cd6](../Resources/t2-cd6.png)
 ![cd7](../Resources/t2-cd7.png)
 
++ Question: How to change to a directory containing white spaces?
+<details>
+  <summary>Click to see the solution(s)!</summary>
+  
+  1. use quotes: `cd "file name"` or `cd 'file name'`
+  2. escape white space `cd file\ name`
+</details>
 
 ## Summary
 + You can identify a specific file or folder by its **path**.
@@ -192,6 +199,8 @@ your computer.
 +  The **pwd** command prints the working directory.
 + The **ls** command lists files and folders in a directory.
 
+## Practice
+[CD command](https://github.com/ZhangNingSAU/Spring-2022-CSCI-185-Script-Programming/blob/main/Practice/1.md)
 # Part 3: Create files and folders
 ## Create a new folder
 + We’ll start to learn some actions you can perform on folders and files. One of the first actions when opening up a new terminal is to create a new folder or file.
