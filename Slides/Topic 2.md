@@ -125,7 +125,7 @@ contained in my Movies directory. This is the simplest case of how directories a
 
 ![shell](../Resources/t2-shell.png)
 
-+[File Systems: Linux vs. Windows](https://www.differencebetween.com/difference-between-linux-file-system-and-vs-windows-file-system/)
++ [File Systems: Linux vs. Windows](https://www.differencebetween.com/difference-between-linux-file-system-and-vs-windows-file-system/)
 
 ## pwd command
 
