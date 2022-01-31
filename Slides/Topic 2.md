@@ -182,13 +182,12 @@ changed.
 ![cd6](../Resources/t2-cd6.png)
 ![cd7](../Resources/t2-cd7.png)
 
-+ Question: How to change to a directory containing white spaces?
-  - <details>
-    <summary>Click to see the solution(s)!</summary>
-  
+Question: How to change to a directory containing white spaces?
+<details>
+<summary>Click to see the solution(s)!</summary>
   1. use quotes: `cd "file name"` or `cd 'file name'`
   2. escape white space `cd file\ name`
-    </details>
+</details>
 
 ## Summary
 + You can identify a specific file or folder by its **path**.
