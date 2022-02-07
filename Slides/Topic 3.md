@@ -1,4 +1,4 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Dr. Ning Zhang
 # Topic 3: Working with Files and Folders
 
