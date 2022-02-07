@@ -28,7 +28,9 @@
 + We’ve learned how to view a file using cat command.
 + Now let’s take a look at how we could view a larger file.
 + Let’s examine the [earthquakes.txt](https://raw.githubusercontent.com/ZhangNingSAU/Spring-2022-CSCI-185-Script-Programming/main/Resources/earthquakes.txt) file to see if it’s reasonable to read it with cat.
+  - You can use `wget https://raw.githubusercontent.com/ZhangNingSAU/Spring-2022-CSCI-185-Script-Programming/main/Resources/earthquakes.txt` to download the file to the current folder, or you can open the URL and save the file. 
 + Wow, over 6000 lines! If we use cat on this file it’s liable to take up our entire terminal.
+  - You can use `wc` command to check the number of lines.
 
 ![t3-less1](../Resources/t3-less1.png)
 
