@@ -166,7 +166,7 @@ Note: The slash / after the folder name is added by tab completion automatically
 
 ![t3-cp1](../Resources/t3-cp1.png)
 
-+ Be aware that there is one di↵erence between copying files and folders, **when copying folders you need to specify the -r option**, which is short for recursive.
++ Be aware that there is one difference between copying files and folders, **when copying folders you need to specify the -r option**, which is short for recursive.
 
 + This ensures that the underlying directory structure of the directory you wish to copy remains intact.
 
