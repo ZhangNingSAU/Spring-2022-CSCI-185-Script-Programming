@@ -15,7 +15,8 @@ Note: your home directory is the working directory you have when you open your t
 
 ## Q4. Print the first 5 lines and the last 5 lines of test.txt.
 
-## Q5. Make a copy of the test.txt file with the new name: new_test.txt inside of csci185_hw3 folder. Please include the -i option..
+## Q5. Make a copy of the test.txt file with the new name: new_test.txt inside of csci185_hw3 folder. Please include the -i option.
++ Note: You may not see the `overwrite some_name.txt? (y/n [n])` if some_name.txt does not exsit in the destination folder.
 
 ## Q6. Print the full word count information for both the test.txt and new_test.txt.
 
