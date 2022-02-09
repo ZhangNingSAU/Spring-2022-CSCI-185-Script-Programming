@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 3
 
-# Due: 11:59pm 02/17/2020
+# Due: 11:59pm 02/16/2022
 
 # Step 1: Please use the correct Unix commands to complete the following eight tasks in your terminal:
 
@@ -23,5 +23,5 @@ Note: your home directory is the working directory you have when you open your t
 ## Q8. Rename your csci185_hw3 folder to a new name: HW3
 
 
-# Step 2: Please screen shot your terminal with the above 8 tasks
+# Step 2: Please screenshot your terminal with the above 8 tasks
 # Step 3: Please save the 8 screenshots in a PDF file, name it as "CSCI185_Homework3_JohnDoe(0123456).pdf", where 0123456 is your BeeCard number, and sumbit it on [Blackboard](https://blackboard.sau.edu/webapps/login/)
