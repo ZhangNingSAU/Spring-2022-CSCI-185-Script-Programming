@@ -98,7 +98,7 @@ MANUAL SECTIONS
 + Qustion: What if I type "mv 2019* 2019" and "mv 2020* 2020"
 
 
-+ If we want to list all of the jpg picture in my Pictures directory we could do the following (ls *.jpg)
++ If we want to list all of the jpg picture in my Pictures directory we could do the following (`ls *.jpg`)
   - Note: Let's mv the photos back from 2019 and 2020 folders, how can we do that?
 + As you can see, only the files with extension .jpg are listed!
 + + The command ls *.jpg literally means: list the files start a sequence of zero or more of any character but the file name must end in “.jpg”
