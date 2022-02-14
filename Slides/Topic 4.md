@@ -105,7 +105,7 @@ MANUAL SECTIONS
 
 ![t4-star4](../Resources/t4-star4.png)
 
-+ We could also list only the photos on a specific date (ls *01-01*).
++ We could also list only the photos on a specific date (`ls *01-01*`).
 
 ![t4-star5](../Resources/t4-star5.png)
 
