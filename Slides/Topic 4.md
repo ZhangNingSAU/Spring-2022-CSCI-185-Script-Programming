@@ -129,7 +129,7 @@ MANUAL SECTIONS
 
 ### There are two things which * and ? cannot match.
 + First, they cannot match filenames starting with a **dot (.)**
-+ Second, they cannot match **/** in the pathname. For example, we cannot use cd **/usr?local** to switch to **/usr/local**. It will generate an error.
++ Second, they cannot match `/` in the pathname. For example, we cannot use `cd /usr?local` to switch to **/usr/local**. It will generate an error.
 
 
 ## Square Brackets Wildcard
