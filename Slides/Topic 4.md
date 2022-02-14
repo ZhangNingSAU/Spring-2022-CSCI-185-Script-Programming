@@ -61,15 +61,15 @@ MANUAL SECTIONS
 
 ![t4-apropos1](../Resources/t4-apropos1.png)
 
-+ Let’s try cal and ncal in the terminal line.
-+ You also can use man command to get more detailed information of cal and ncal commands, try it by yourself.
++ Let’s try `cal` and `ncal` in the terminal line.
++ You also can use man command to get more detailed information of `cal` and `ncal` commands, try it by yourself.
 
 ![t4-apropos2](../Resources/t4-apropos2.png)
 
 
-+ Both man and apropos are useful when a search is only a few keystrokes away.
++ Both `man` and `apropos` are useful when a search is only a few keystrokes away.
 + But if you’re looking for detailed examples and explanations you’re better off using a search engine if you have access to a web browser.
-+ If you have access to a web browser, using a search engine might be better than man or apropos.
++ If you have access to a web browser, using a search engine might be better than `man` or `apropos`.
 
 
 
