@@ -341,12 +341,12 @@ echo "#%&-=***=-&%#" >> small.txt
   - The **\s** metacharacter corresponds to all **“space”** characters.
   
 + Let’s take a look at using each of these metacharacters on small.txt.
-+ As you can see in the example above, the \w metacharacter matches all letters, numbers, and even the underscore character ( ).
++ As you can see in the example above, the `\w` metacharacter matches all letters, numbers, and even the underscore character (`_`).
 
 ![egrep9](../Resources/t4-egrep9.png)
 
 + We can see the compliment of this egrep by adding the **-v option** to the command.
-+ The -v flag (which stands for invert match) makes egrep return **all of the lines not matched by the regular expression**.
++ The `-v` flag (which stands for invert match) makes egrep return **all of the lines not matched by the regular expression**.
 
 ![egrep10](../Resources/t4-egrep10.png)
 
