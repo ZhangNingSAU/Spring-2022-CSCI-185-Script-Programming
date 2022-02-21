@@ -304,7 +304,7 @@ Note: we can not use egrep "^N\*a$" states.txt, because the * will repeat N not 
 
 
 + For the next couple of examples we’re going to need some text data beyond the names of the states.
-+ Let’s just create a short text file from the console(you can copy the following commands to your terminal at one time or use wget command to download it from "https://raw.githubusercontent.com/ZhangNingSAU/Spring-2021-CSCI-185-Script-Programming/master/Resources/small.txt"):
++ Let’s just create a short text file from the console(you can copy the following commands to your terminal at one time or use wget command to download it from "https://raw.githubusercontent.com/ZhangNingSAU/Spring-2022-CSCI-185-Script-Programming/master/Resources/small.txt"):
 
 ~~~~
 touch small.txt
