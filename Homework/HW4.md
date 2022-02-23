@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 4
 # 
-# Due: 11:59pm 03/01/2021
+# Due: 11:59pm 03/02/2021
 
 # Step 1: Please use the correct Bash commands to complete the following six tasks in your terminal:
 
@@ -25,7 +25,7 @@ curl -O http://seankross.com/notes/states.txt
 
 ## Q4. Search for all of the state names that both begin and end with a vowel in your terminal.
 
-## Q5. Make five text files
+## Q5. Create five text files
 + save all the state names that don’t contain the letter **a** in h1.txt
 
 + save all the state names that don’t contain the letter **e** in h2.txt
