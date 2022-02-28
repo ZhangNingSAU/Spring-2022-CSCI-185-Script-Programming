@@ -11,7 +11,7 @@
 ![history1](../Resources/t5-history1.png)
 
 + We’ve had our terminal open for a while so there are tons of commands in our history!
-+ Whenever we close a terminal our recent commands are written to the **∼/.bash\_ history** file.
++ Whenever we `close a terminal` our recent commands are written to the **∼/.bash\_ history** file.
 + If the **∼/.bash\_ history** file does not exist, close your terminal and reopen it.
 
 ![history2](../Resources/t5-history2.png)
