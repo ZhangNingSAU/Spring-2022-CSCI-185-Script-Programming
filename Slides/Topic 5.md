@@ -109,6 +109,8 @@
   - We could use `grep/egrep` and `regular expressions` to list all of the state names that end with a vowel, then we could use `wc` to count all of the matching state names:
 
  ![pipe2](../Resources/t5-pipe2.png)
+ 
+ [Lab for Pipe](../Practice/pipe.md)
 
 
 # Summary
