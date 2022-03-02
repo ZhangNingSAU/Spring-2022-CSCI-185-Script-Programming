@@ -5,4 +5,4 @@
 2. try searching for the `cat` command.<br>
 3. redirect the output in step 2 to a file named `cat_history.txt`.<br>
 ### Q2.
-1. list the number of files in the `home` directory.<br>
+1. list the number of files and directories in the `home` directory.<br>
