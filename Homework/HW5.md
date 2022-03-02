@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 5
 
-# Due: 11:59pm 03/08/2021
+# Due: 11:59pm 03/09/2022
 
 # Step 1: Please use the correct Unix commands to complete the following eight tasks in your terminal:
 
