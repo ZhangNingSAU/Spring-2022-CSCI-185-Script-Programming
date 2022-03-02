@@ -84,15 +84,15 @@
 
 
 # Pipe
-+ One of the most powerful features of the command line is skilled use of the pipe (\|) which you can usually find above the backslash (\\) on your keyboard.
++ One of the most powerful features of the command line is skilled use of the pipe (`|`) which you can usually find above the backslash (`\`) on your keyboard.
 + The pipe allows us to **take the output of a command**, which would normally be printed to the console, and **use it as the input to another command**.
 
 + It’s like fitting an actual pipe between the end of one program and connecting it to the top of another program.
 
 + Let’s take a look at a basic example.
-  - We know the cat command takes the contents of a text file and prints it to the console.
-  - This output from cat states.txt will go into our pipe, and we’ll attach the dispensing end of the pipe to head, which we use to look at the first few lines of a file.
-  - Notice that this is the same result we would get from head -n 5 states.txt, we just used cat to illustrate how the pipe works.
+  - We know the `cat` command takes the contents of a text file and prints it to the console.
+  - This output from `cat states.txt` will go into our pipe, and we’ll attach the dispensing end of the pipe to head, which we use to look at the first few lines of a file.
+  - Notice that this is the same result we would get from `head -n 5 states.txt`, we just used `cat` to illustrate how the pipe works.
   
   
 ![pipe1](../Resources/t5-pipe1.png)
@@ -106,7 +106,7 @@
 
 + A more common and useful example where we could use the pipe is answering the question: “How many US states end in a vowel?”
 
-  - We could use grep/egrep and regular expressions to list all of the state names that end with a vowel, then we could use wc to count all of the matching state names:
+  - We could use `grep/egrep` and `regular expressions` to list all of the state names that end with a vowel, then we could use `wc` to count all of the matching state names:
 
  ![pipe2](../Resources/t5-pipe2.png)
 
