@@ -77,15 +77,15 @@
   - If your file has been modified in any way, the editor will warn you of this, and not let you quit. To ignore this message, the command to quit out of vi without saving is :q!. This lets you exit vi without saving any of the changes.
   
 + **:w** command:
-  - The command to save the contents of the editor is :w. 
+  - The command to save the contents of the editor is `:w`. 
 + **:wq** command:
-  - You can combine the above command with the quit command, or use :wq and return.
+  - You can combine the above command with the quit command, or use `:wq` and `return`.
   
   
 + **ZZ** command:
-  - The easiest way to save your changes and exit vi is with the ZZ command. When you are in the command mode, type ZZ. The ZZ command works the same way as the :wq command.
+  - The easiest way to save your changes and exit vi is with the `ZZ` command. When you are in the command mode, type `ZZ`. The `ZZ` command works the same way as the `:wq` command.
 + Save as another filename:
-  - If you want to specify/state any particular name for the file, you can do so by specifying it after the :w. For example, if you wanted to save the file you were working on as another filename called filename2, you would type :w filename2 and return.
+  - If you want to specify/state any particular name for the file, you can do so by specifying it after the :w. For example, if you wanted to save the file you were working on as another filename called `filename2`, you would type `:w filename2` and return.
   
   
 ## Moving within a File(Part I)
