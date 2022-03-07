@@ -288,6 +288,15 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
 
 + The **g** stands for globally. The result of this command is that all occurrences on the cursor's line are changed.
 
++ For example, to search for the first occurrence of the string ‘foo’ in the current line and replace it with ‘bar’, you would use 
+~~~~
+:s/foo/bar/.
+~~~~
++ To replace all occurrences of the search pattern in the current line, add the `g` flag. 
+~~~~
+:s/foo/bar/g
+~~~~
+
 ## Important Points to Note
 + The following points will add to your success with vi −
 
