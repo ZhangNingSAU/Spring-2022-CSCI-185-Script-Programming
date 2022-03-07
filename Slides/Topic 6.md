@@ -268,6 +268,9 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
 |:set term|Prints terminal type|
 |:set bf|Discards control characters from input|
 
++ Note
+  - `set nonu` will turn off the line number display.
+  - `set nu!` to toggle off display of line numbers.
 
 ## Running Commands
 + The vi has the capability to run commands from within the editor. To run a command, you only need to go to the command mode and type :! command.
