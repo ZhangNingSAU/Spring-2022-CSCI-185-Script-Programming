@@ -273,9 +273,9 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
   - `set nu!` to toggle off display of line numbers.
 
 ## Running Commands
-+ The vi has the capability to run commands from within the editor. To run a command, you only need to go to the command mode and type :! command.
++ The vi has the capability to run commands from within the editor. To run a command, you only need to go to the command mode and type `:! command`.
 
-+ For example, if you want to check whether a file exists before you try to save your file with that filename, you can type :! ls and you will see the output of ls on the screen.
++ For example, if you want to check whether a file exists before you try to save your file with that filename, you can type `:! ls` and you will see the output of ls on the screen.
 
 + You can press any key (or the command's escape sequence) to return to your vi session
 
