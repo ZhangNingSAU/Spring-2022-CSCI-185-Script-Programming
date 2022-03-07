@@ -3,7 +3,7 @@
 # Topic 6: VI/VIM, make and makefile
 # Part I: VI/VIM Text Editor
 
-+ In this topic, we will understand how the **vi Editor** works in Unix. There are many ways to edit files in Unix. Editing files using the screen-oriented text editor vi is one of the best ways. This editor enables you to edit lines in context with other lines in the file.
++ In this topic, we will understand how the **[vi Editor](https://en.wikipedia.org/wiki/Vi)** works in Unix. There are many ways to edit files in Unix. Editing files using the screen-oriented text editor vi is one of the best ways. This editor enables you to edit lines in context with other lines in the file.
 + An improved version of the vi editor which is called the VIM has also been made available now. Here, VIM stands for Vi IMproved.
 + vi is generally considered the de facto standard in Unix editors because
   - It's usually available on all the flavors of Unix system.
