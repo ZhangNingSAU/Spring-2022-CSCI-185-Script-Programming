@@ -321,8 +321,8 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
 # [Reference](https://www.tutorialspoint.com/unix/unix-vi-editor.htm)
 
 
-# [Lab](http://www.vimlabs.world/landing.html/)
-
+# [Lab 1](http://www.vimlabs.world/landing.html/)
+# [Lab 2](https://www.vim.so/#exercise)
 
 # Part II: make and makefile
 
