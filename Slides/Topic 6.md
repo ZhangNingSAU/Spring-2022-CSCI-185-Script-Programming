@@ -296,6 +296,10 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
 ~~~~
 :s/foo/bar/g
 ~~~~
++ Without the `%` symbol Vim only matches and replaces on the current line.
+~~~~
+:%s/foo/bar/g
+~~~~
 
 ## Important Points to Note
 + The following points will add to your success with vi −
