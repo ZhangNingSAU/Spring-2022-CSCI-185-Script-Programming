@@ -392,7 +392,7 @@ To edit the file, you need to be in the insert mode. There are many ways to ente
 ![t7-makefile7](../Resources/t7-makefile7.png)
 
 + What do you think will happen if we run make readme.txt again?
-  - Nothing happened! Since the readme.txt file still exists and no changes were made to any of the dependencies for readme.txt (toc.txt is the only dependency) make doesn’t run the commands for the readme.txt rule.
+  - Nothing happened! Since the readme.txt file still exists and no changes were made to any of the dependencies for readme.txt (d1.txt is the only dependency) make doesn’t run the commands for the readme.txt rule.
  
 ![t7-makefile8](../Resources/t7-makefile8.png)
 
