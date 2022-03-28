@@ -1,4 +1,4 @@
-# CSCI185 Spring 2021
+# CSCI185 Spring 2022
 # Dr. Ning Zhang
 # Topic 7: Bash Programming - Basics
 
