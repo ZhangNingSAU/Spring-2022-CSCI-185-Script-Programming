@@ -90,7 +90,8 @@
 ![sh10](../Resources/t7-sh10.png)
 
 + Now, let's do it in a script.
-
+  - Note that all the variables are strings by default
+  - What if we need to do additions between two numbers?(Hint: `let`)
 ~~~~
 #!/bin/bash
 # File: demo1.sh
