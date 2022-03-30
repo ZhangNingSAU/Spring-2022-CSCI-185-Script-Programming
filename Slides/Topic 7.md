@@ -127,6 +127,7 @@ echo "$str1 $str2"
 
 
 + **Variable names with a dollar sign can also be used inside other strings** in order to insert the value of the variable into the string:
+  - Questsion: What if we need to display a string that contains `$`?
 
 ![sh12](../Resources/t7-sh12.png)
 
