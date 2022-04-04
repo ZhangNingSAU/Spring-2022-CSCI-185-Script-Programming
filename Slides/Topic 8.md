@@ -1,4 +1,4 @@
-# CSCI185 Spring 2021
+# CSCI185 Spring 2022
 # Dr. Ning Zhang
 # Topic 8: Bash Programming -  Logic, If/Else, For loop and While loop
 
