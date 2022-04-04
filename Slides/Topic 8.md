@@ -184,16 +184,16 @@ file_name="math.sh"
 ~~~~
 if condition1
 then
-    # code inside of if statement
+    # code of if statement
 elif condition2
 then
-    # code inside of elif statement
+    # code of elif statement
 elif condition3
 then
-    # code inside of elif statement
+    # code of elif statement
     ....
 else
-    # code inside of else statement
+    # code of else statement
 fi
 ~~~~
 
