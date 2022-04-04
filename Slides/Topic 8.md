@@ -129,7 +129,7 @@
 ## Logical flags
 + For example, there are several logical flags you could use for **comparing two integers**.
 + If we wanted to see if one integer was **greater than** another we could use **-gt**, the greater than flag.
-+ Here is one example. Note the**space(s)** between double brackets and the numbers.
++ Here is one example. Note the **space(s)** between double brackets and the numbers.
 
 ![t8-gt1](../Resources/t8-gt1.png)
 
