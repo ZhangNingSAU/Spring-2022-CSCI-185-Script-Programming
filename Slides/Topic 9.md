@@ -1,4 +1,4 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Dr. Ning Zhang
 # Topic 9: Functions
 + [Do not reinvent the wheel](https://en.wikipedia.org/wiki/Reinventing_the_wheel)
