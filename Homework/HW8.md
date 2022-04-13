@@ -1,7 +1,7 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 8
-# Start: 03/29/2021
-# Due: 04/12/2021
+
+# Due: 23:59pm 04/20/2022
 # Step 1: Write a bash script to
 # Q1: Create a **Food Menu** (40 Points)
 ## 1.1 Print out the food menu to the user:
@@ -14,7 +14,7 @@
 ## 1.2 Ask the user to enter the food option
 ## 1.3 Print out the results based on the user input. (**if-elif-else**)
 ## 1.4 Ask the user if he/she wants to continue or not 
-## 1.5 The program continues run if the user enter Y or y, otherwise the program stops. (**while loop**) 
+## 1.5 The program continues run if the user enter `Y` or `y`, otherwise the program stops. (**while loop**) 
 ## 1.6 Bonus questions(5 points): Before the program stops, print the the information of the food that the user has orderd. For example:
 ~~~~
 You got:
@@ -158,6 +158,6 @@ done
 
 + Note
   - The .sh file might be not allowed on Blackboard, you can zip the file then make the submission.
-  - To zip the .sh file in Ubuntu, you can do **zip  'CSCI185_Homework7_JohnDoe(0123456).zip' CSCI185_Homework7_JohnDoe(0123456).sh**
+  - To zip the .sh file in Ubuntu, you can do **zip  'CSCI185_Homework8_JohnDoe(0123456).zip' CSCI185_Homework8_JohnDoe(0123456).sh**
   - You can also use the webbrower(firefox) in Ubuntu to submit your work.
   
