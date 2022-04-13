@@ -109,7 +109,7 @@ See you next time!
   ~~~~
 
   
-# Q3: In the following bash script, I define a function named is_there_3 to check if an sequence of integers contain number 3 or not. How many comparisions ($i -eq 3) are there if I do "is_there_3 4 7 5 3 9 2 3 6" in the terminal? How many comprisions are there if I comment the "break" (line 13) in the script and run the same command in the terminal? (10 Points)
+# Q3: In the following bash script, I define a function named is_there_3 to check if a sequence of integers contains number 3 or not. How many comparisions (`$i -eq 3`) are there if I do `is_there_3 4 7 5 3 9 2 3 6` in the terminal? How many comprisions are there if I comment the `break` (line 13) in the script and run the same command in the terminal? (10 Points)
 
 ![hw8.2 q3](../Resources/t8-break3.png)
 
