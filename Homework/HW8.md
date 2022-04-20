@@ -1,7 +1,7 @@
 # CSCI 185 Spring 2022
 # Homework 8
 
-# Due: 23:59pm 04/20/2022
+# Due: 23:59pm 04/27/2022
 # Step 1: Write a bash script to
 # Q1: Create a **Food Menu** (40 Points)
 ## 1.1 Print out the food menu to the user:
