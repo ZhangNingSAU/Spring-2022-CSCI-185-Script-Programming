@@ -23,7 +23,6 @@
 
 ## Q3: In the third bash script, you need to define a funtion to take a sequence of words as the arguments and find the number of words that contain vowel(s).
 
-+ Sample output
 
 + Hint: To find out if one word contains vowel(s) or not? See the **regex match operator =∼** in [Topic 8](../Slides/Topic%208.md) or see the follwong code
 
