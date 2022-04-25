@@ -8,7 +8,7 @@
 
 ## Basic syntax
 
-+ Functions have the the following syntax(Note the space between [name of function] and { ):
++ Functions have the the following syntax(Note the `space` between [name of function] and { ):
 ~~~~
 function [name of function] {
   # code here
