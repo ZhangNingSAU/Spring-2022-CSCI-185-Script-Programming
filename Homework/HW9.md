@@ -11,7 +11,7 @@
 + ![hw9-1](../Resources/hw9-1.png)
 
 
-## Q2: In the second bash script, you need to define a function named `range` to take one integer as the argument and can print integers from 0 to the integer before the given number.
+## Q2: In the second bash script, you need to define a function to take one integer as the argument and can print integers from 0 to the integer before the given number.
 
 + Sample output
 
