@@ -1,6 +1,6 @@
-# CSCI 185 Spring 2021
+# CSCI 185 Spring 2022
 # Homework 9
-# Due: 11:59pm 04/14/2021
+# Due: 11:59pm 05/02/2022
 
 # Step 1: Write three bash scripts.
 ## Q1: In the first bash script, you need to define a function to calculate the multplication of two numbers(30 points).
