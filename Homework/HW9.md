@@ -5,7 +5,7 @@
 # Step 1: Write three bash scripts.
 ## Q1: In the first bash script, you need to define a function to calculate the multplication of two numbers(30 points).
 + You just need to find out the results of any two integers.
-+ You will get 10 points as the bonus if you define a function that can deal with any two numbers (no matter they are integers or real numbers)
++ You will get 5 points as the bonus if you define a function that can deal with any two numbers (no matter they are integers or real numbers)
 + Sample output.
 
 + ![hw9-1](../Resources/hw9-1.png)
