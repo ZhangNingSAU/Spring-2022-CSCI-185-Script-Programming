@@ -21,7 +21,7 @@
 
 + ![hw9-2](../Resources/hw9-2.png)
 
-## Q3: In the third bash script, you need to define a funtion to take a sequence of words as the arguments and find the number of words which contain vowel(s).
+## Q3: In the third bash script, you need to define a funtion to take a sequence of words as the arguments and find the number of words that contain vowel(s).
 
 + Sample output
 
