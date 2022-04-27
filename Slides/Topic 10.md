@@ -159,7 +159,7 @@
 + Let’s take a look at this variable first.
   - The **PATH** variable contains **a sequence of paths** on our computer **separated by colons**.
   - When the shell starts it searches these paths for executable files, and then **makes those executable commands available in our shell**.
-  - Note that your  **PATH** variable may contain a different string.
+  - Note that your  **PATH** variable usually contains a different string.
 ![t10-en2](../Resources/t10-en2.png)
 
 + One approach to making our scripts available is to **add a directory to the PATH**. Then, Bash scripts in the directory that are executable can be used as commands.
