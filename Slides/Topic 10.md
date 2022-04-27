@@ -143,7 +143,7 @@
 
 # Environmental Variables
 + An **environmental variable** is a variable that Bash creates where data about your current computing environment is stored.
-+ Environmental variable names use all **capitalized letters**.
++ Environmental variable names use all **CAPITALIZED LETTERS**.
 + Let’s look at the values for some of these variables.
   - The **HOME** variable contains the path to our home directory
   - The **PWD** variable contains the path to our current directory.
