@@ -14,7 +14,7 @@
 ## 1.2 Ask the user to enter the food option
 ## 1.3 Print out the results based on the user input. (**if-elif-else**)
 ## 1.4 Ask the user if he/she wants to continue or not 
-## 1.5 The program continues run if the user enter `Y` or `y`, otherwise the program stops. (**while loop**) 
+## 1.5 The program continues to run if the user enter `Y` or `y`, otherwise the program stops. (**while loop**) 
 ## 1.6 Bonus questions(5 points): Before the program stops, print the the information of the food that the user has orderd. For example:
 ~~~~
 You got:
