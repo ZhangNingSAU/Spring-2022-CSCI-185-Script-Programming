@@ -1,4 +1,4 @@
-# CSCI185 Spring 2021
+# CSCI185 Spring 2022
 # Topic 12: Git and Github: Github
 
 # Create a repository on Github
