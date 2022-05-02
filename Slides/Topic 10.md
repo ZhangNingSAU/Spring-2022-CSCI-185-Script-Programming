@@ -170,6 +170,8 @@
 + To modify an environmental variable we need to use the **export** keyword.
 + Let’s add a line **export PATH=“∼/Users/sliM/csci185/topic10:$PATH”** to the bottom of our **∼/.bash_profile (mac)** or **∼/.profile (linux)** so that the directory for executable script(short) is added to the PATH.
   - Note: you need to add the directory where the demo file is located on your own computer.
+  - In Linux, We could also append our `export` command to `~/.bash_profile` if we are using `Bash`, but our changes will be not be reflected in other shells, such as Zsh. 
+  - In Linux, We shouldn’t add our `export` command to `~/.bashrc` because only interactive Bash shells read this configuration file. If we open a non-interactive shell or a shell other than `Bash`, our `PATH` change will not be reflected.
 
 
 
