@@ -104,7 +104,7 @@ git add readme.txt
 ![t11-git8](../Resources/t11-git8.png)
 
 + Let's add more files and change the existing file.
-  - Note that we use file name `fil2.txt` on purpos.
+  - Note that we use file name `fil2.txt` on purpose.
 
 ![t11-git9](../Resources/t11-git9.png)
 
