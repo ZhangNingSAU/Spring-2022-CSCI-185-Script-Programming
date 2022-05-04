@@ -274,7 +274,7 @@ git diff file_name
   
   ![t11-gitmerge4](../Resources/t11-gitmerge4.png)
   
-+ In order to resolve this conflict, all we need to do is open readme.txt with nano so we can delete the lines we want to get rid of.
++ In order to resolve this conflict, all we need to do is open readme.txt with vim or other text editor so we can delete the lines we want to get rid of.
 
 ![t11-gitmerge5](../Resources/t11-gitmerge5.png)
 
