@@ -36,7 +36,7 @@
 git remote add origin https://github.com/ZhangNingSAU/my-first-repo.git
 ~~~~
 
-+ Use `git remote to check the result`
++ Use `git remote` to check the result
 
 ![t12-6](../Resources/t12-6.png)
 
