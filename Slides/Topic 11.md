@@ -219,6 +219,8 @@ git diff file_name
 + Creating different Git branches allows you to work on a particular feature or set of files independently from other “copies” of a repository.
 + That way you and a friend can work on different parts of the same file on different branches, and then Git can help you elegantly merge your branches and changes together.
 
+![git branch](https://www.nobledesktop.com/image/gitresources/git-branches-merge.png)
+
 + **git branch**: 
   - `git branch` lists all of the available branches.
     + The star (`*`) indicates which branch you’re currently on.
