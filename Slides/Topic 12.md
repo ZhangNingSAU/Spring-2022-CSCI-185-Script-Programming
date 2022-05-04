@@ -22,7 +22,7 @@
 
 
 + By now, we have a local repository on my computer and a remote repository on Github.
-  - A remote Git repository is just a Git repository stored on a computer is that always turned on and connected to the internet.
+  - A remote Git repository is just a Git repository stored on a computer that is always turned on and connected to the internet.
   - so it can act as a central point where we can share and sync our changes to files with our friends and colleagues.
   - We can see which remote repositories our local repository is connected to with the `git remote` command while we have our working directory set to `my-first-repo`:
   
